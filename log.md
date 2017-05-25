@@ -2,7 +2,7 @@
 
 ### Day 1: May 25th, 2017
 
-**Today's Progress**: Updated personal website.
+**Today's Progress**: 
 
 **Thoughts:**
 
